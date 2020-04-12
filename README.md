@@ -1,4 +1,8 @@
-This is a sample openshift v3 application repository.  
+CURSO DE OPENSHIFT 4
+====================
+APASOFT TRAINING
 
-For instructions on how to use it, please see: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
+EJEMPLO DE APLICACIÓN RUBY PARA EL CURSO DE OPENSHIFT 4 DE APASOFT TRAINING
+
+
 
